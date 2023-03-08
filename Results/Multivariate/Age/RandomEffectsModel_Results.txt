@@ -1,0 +1,14 @@
+Random-Effects Model (k = 5; tau^2 estimator: REML)
+
+tau^2 (estimated amount of total heterogeneity): 0.0002 (SE = 0.0004)
+tau (square root of estimated tau^2 value):      0.0147
+I^2 (total heterogeneity / total variability):   41.14%
+H^2 (total variability / sampling variability):  1.70
+
+Test for Heterogeneity:
+Q(df = 4) = 5.7058, p-val = 0.2222
+
+Model Results:
+
+estimate      se    zval    pval   ci.lb   ci.ub 
+  0.0248  0.0107  2.3239  0.0201  0.0039  0.0456  * 
