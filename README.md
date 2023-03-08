@@ -1,7 +1,6 @@
 # Meta-analysis-HP
  Code used for a Meta Analysis Of Risk factors for Hypersensitivity Pneumonitis \
- Find the paper here:   https://doi.org/10.1080/17476348.2022.2100352 
-      Find the Supplementary Material: https://doi.org/10.1080/17476348.2022.2100352
+ Find the paper here:   https://doi.org/10.1080/17476348.2022.2100352   Find the Supplementary Material: https://doi.org/10.1080/17476348.2022.2100352
 
 
 # Results:
